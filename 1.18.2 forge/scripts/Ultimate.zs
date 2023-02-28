@@ -1,0 +1,27 @@
+smithing.remove(<item:upgradednetherite_items:ultimate_upgraded_netherite_totem>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_horse_armor>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_boots>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_leggings>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_chestplate>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_helmet>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_shield>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_crossbow>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_bow>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_axe>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_shovel>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_pickaxe>);
+smithing.remove(<item:upgradednetherite_ultimate:ultimate_upgraded_netherite_sword>);
+
+smithing.addRecipe("corruptite_to_ultimatetotem", <item:upgradednetherite_items:ultimate_upgraded_netherite_totem>, <item:upgradednetherite_items:corrupt_upgraded_netherite_totem>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimatehorsearmor", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_horse_armor>, <item:upgradednetherite:corrupt_upgraded_netherite_horse_armor>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimateboots", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_boots>, <item:upgradednetherite:corrupt_upgraded_netherite_boots>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimateleggings", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_leggings>, <item:upgradednetherite:corrupt_upgraded_netherite_leggings>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimatechestplate", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_chestplate>, <item:upgradednetherite:corrupt_upgraded_netherite_chestplate>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimatehelmet", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_helmet>, <item:upgradednetherite:corrupt_upgraded_netherite_helmet>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimateshield", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_shield>, <item:upgradednetherite:corrupt_upgraded_netherite_shield>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimatecrossbow", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_crossbow>, <item:upgradednetherite:corrupt_upgraded_netherite_crossbow>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimatebow", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_bow>, <item:upgradednetherite:corrupt_upgraded_netherite_bow>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimateaxe", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_axe>, <item:upgradednetherite:corrupt_upgraded_netherite_axe>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimateshovel", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_shovel>, <item:upgradednetherite:corrupt_upgraded_netherite_shovel>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimatepick", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_pickaxe>, <item:upgradednetherite:corrupt_upgraded_netherite_pickaxe>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
+smithing.addRecipe("corruptite_to_ultimatesword", <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_sword>, <item:upgradednetherite:corrupt_upgraded_netherite_sword>, <item:upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot>);
